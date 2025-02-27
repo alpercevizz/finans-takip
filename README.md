@@ -1,0 +1,51 @@
+# Finans Takip Uygulaması
+
+**Python & Tkinter ile geliştirilmiş bir Finans Takip Uygulaması!**
+
+Bu uygulama gelir ve giderlerinizi takip etmenize, toplam bütçenizi hesaplamanıza ve geçmiş finansal kayıtlarınızı görüntülemenize olanak tanır.
+
+---
+
+## Özellikler
+✅ **Gelir ekleyebilirsiniz.**  
+✅ **Gider ekleyebilirsiniz.**  
+✅ **Gelir ve giderlerinizi ayrı ayrı listeleyebilirsiniz.**  
+✅ **Mevcut bütçenizi hesaplayıp gösterebilirsiniz.**  
+✅ **Kullanıcı dostu GUI (Tkinter) ile kolay kullanım!**  
+
+---
+
+## 🖥️ Ekran Görüntüleri
+
+**Ana Ekran:**
+![Uygulama Görüntüsü(screenshot.png]
+
+---
+
+## 📌 Kurulum
+
+### **1️- Gereksinimler**
+Bu projeyi çalıştırmadan önce aşağıdaki bağımlılıkları yüklemeniz gerekmektedir:
+```bash
+pip install tkinter
+```
+
+### **2️- Projeyi Klonlayın**
+```bash
+git clone https://github.com/alpercevizz/finans-takip.git
+cd finans-takip
+```
+
+### **3️- Uygulamayı Çalıştırın**
+```bash
+python main.py
+```
+
+---
+
+## 📜 Lisans
+Bu proje **MIT Lisansı** altında yayınlanmıştır. Özgürce kullanabilirsiniz! 🎉
+
+---
+
+
