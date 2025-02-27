@@ -39,7 +39,7 @@ cd finans-takip
 
 ### **3️⃣ Uygulamayı Çalıştırın**
 ```bash
-python main.py
+python gelir_gider.py
 ```
 
 ---
